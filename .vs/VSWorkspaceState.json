@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\encyclopedia",
+    "\\encyclopedia\\migrations",
+    "\\encyclopedia\\static",
+    "\\encyclopedia\\static\\encyclopedia",
+    "\\encyclopedia\\static\\encyclopedia\\favicons",
+    "\\encyclopedia\\templates",
+    "\\encyclopedia\\templates\\encyclopedia",
+    "\\entries",
+    "\\wiki"
+  ],
+  "SelectedNode": "\\README.md",
+  "PreviewInSolutionExplorer": false
+}
